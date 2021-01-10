@@ -4,7 +4,7 @@ subtitle: This could be a quote or whatever.
 date: '2021-01-10'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: I don't know what this is.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: left
