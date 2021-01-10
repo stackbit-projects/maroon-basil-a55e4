@@ -1,6 +1,6 @@
 ---
 title: This is a new post.
-subtitle: lorem-ipsum
+subtitle: This could be a quote or whatever.
 date: '2021-01-10'
 categories: []
 tags: []
