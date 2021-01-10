@@ -10,9 +10,9 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 ---
-## Lorem ipsum
+## Some Content
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+There are a number of things that you can do with the **content** of a site. It's up to the developer to determine how the page is displayed though. Can you wrap the text around pictures?
 
-- Lorem ipsum
-- dolor sit amet
+- Yes
+- No
